@@ -1,7 +1,13 @@
 # The World in One Day — 18 November 2026
 
-A make.fun `news-image-20261118` entry: one image summing up the world's
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/Dare-desuka/news-18-nov-2026/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/Dare-desuka/news-18-nov-2026/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
+A make.fun [`news-image-20261118`](https://make.fun/bounty/news-image-20261118) entry: one image summing up the world's
 news of Wednesday 18 November 2026.
+
+Want to try make.fun yourself? [Join with my referral link](https://make.fun/r/q3egcwt3) (code `q3egcwt3`).
 
 ## The image
 
